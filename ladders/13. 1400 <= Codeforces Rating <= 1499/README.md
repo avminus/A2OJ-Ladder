@@ -5,8 +5,8 @@
 
 | Checkbox | ID  | Problem Name | Online Judge | Difficulty |
 |---|:---:|:---:|---|---|
-|<ul><li>- [ ] Done</li></ul>|1|[Choosing Teams](http://codeforces.com/problemset/problem/432/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|2|[Nearly Lucky Number](http://codeforces.com/problemset/problem/110/A)|Codeforces|1|
+|<ul><li>- [*] Done</li></ul>|1|[Choosing Teams](http://codeforces.com/problemset/problem/432/A)|Codeforces|1|
+|<ul><li>- [*] Done</li></ul>|2|[Nearly Lucky Number](http://codeforces.com/problemset/problem/110/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|3|[Amusing Joke](http://codeforces.com/problemset/problem/141/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|4|[Drinks](http://codeforces.com/problemset/problem/200/B)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|5|[Way Too Long Words](http://codeforces.com/problemset/problem/71/A)|Codeforces|1|
